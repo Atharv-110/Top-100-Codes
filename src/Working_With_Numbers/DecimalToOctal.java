@@ -4,7 +4,7 @@ package Working_With_Numbers;
 
 public class DecimalToOctal {
     public static void main(String[] args) {
-        int number = 148;
+        int number = 214;
         int[] octal = new int[100];
         int i = 0;
         while (number > 0) {
