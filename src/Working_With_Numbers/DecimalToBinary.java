@@ -2,7 +2,7 @@ package Working_With_Numbers;
 
 public class DecimalToBinary {
     public static void main(String[] args) {
-        int number = 5;
+        int number = 12;
 
 //      This binary[] arr will store our binary number
         int[] binary = new int[100];
